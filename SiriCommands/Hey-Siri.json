@@ -18,11 +18,13 @@
       "key": "conv",
       "name": {
         "en": "Conversion",
-        "de": "Konvertieren"
+        "de": "Konvertieren",
+        "pt-br": "Conversão"
       },
       "shortName": {
         "en": "Conversion",
-        "de": "Konvertieren"
+        "de": "Konvertieren",
+        "pt-br": "Conversão"
       },
       "icon": "ion-loop",
       "cmds": {
@@ -305,11 +307,13 @@
       "key": "math",
       "name": {
         "en": "Mathematics",
-        "de": "Mathematik"
+        "de": "Mathematik",
+        "pt-br": "Matemática"
       },
       "shortName": {
         "en": "Maths",
-        "de": "Mathe"
+        "de": "Mathe",
+        "pt-br": "Matemática"
       },
       "icon": "ion-calculator",
       "cmds": {
@@ -754,11 +758,13 @@
       "key": "datecalc",
       "name": {
         "en": "Time & Date calculation",
-        "de": "Datumsberechnung"
+        "de": "Datumsberechnung",
+        "pt-br": "Cálculo de Datas e tempo"
       },
       "shortName": {
         "en": "Date calculation",
-        "de": "Datums-berechnung"
+        "de": "Datums-berechnung",
+        "pt-br": "Calculo de Datas"
       },
       "icon": "ion-ios-calendar-outline",
       "cmds": {
@@ -1131,11 +1137,13 @@
       "key": "apps",
       "name": {
         "en": "Apps & App Store",
-        "de": "Apps & App Store"
+        "de": "Apps & App Store",
+        "pt-br": "Apps & App Store"
       },
       "shortName": {
         "en": "Apps & App Store",
-        "de": "Apps & App Store"
+        "de": "Apps & App Store",
+        "pt-br": "Apps & App Store"
       },
       "icon": "ion-social-apple",
       "cmds": {
@@ -1385,11 +1393,13 @@
       "key": "dctrl",
       "name": {
         "en": "Device Control & Settings",
-        "de": "Gerätesteuerung & Einstellungen"
+        "de": "Gerätesteuerung & Einstellungen",
+        "pt-br": "Configurações e Controles do Dispositvo"
       },
       "shortName": {
         "en": "Control & Settings",
-        "de": "Steuerung & Einstellungen"
+        "de": "Steuerung & Einstellungen",
+        "pt-br": "Configurações e Controles"
       },
       "icon": "ion-ios-settings-strong",
       "cmds": {
@@ -2150,11 +2160,13 @@
       "key": "homekit",
       "name": {
         "en": "HomeKit",
-        "de": "HomeKit"
+        "de": "HomeKit",
+        "pt-br": "HomeKit"
       },
       "shortName": {
         "en": "HomeKit",
-        "de": "HomeKit"
+        "de": "HomeKit",
+        "pt-br": "HomeKit"
       },
       "icon": "ion-ios-home",
       "cmds": {
@@ -2501,11 +2513,13 @@
       "key": "notification",
       "name": {
         "en": "Notifications",
-        "de": "Benachrichtigungen"
+        "de": "Benachrichtigungen",
+        "pt-br": "Notificações"
       },
       "shortName": {
         "en": "Notifications",
-        "de": "Benachrichti-gungen"
+        "de": "Benachrichti-gungen",
+        "pt-br": "Notificações"
       },
       "icon": "ion-ios-circle-filled",
       "cmds": {
@@ -2545,11 +2559,13 @@
       "key": "contactcall",
       "name": {
         "en": "Contacts & Calls",
-        "de": "Kontakte & Anrufe"
+        "de": "Kontakte & Anrufe",
+        "pt-br": "Chamadas e Contatos"
       },
       "shortName": {
         "en": "Contacts & Calls",
-        "de": "Kontakte & Anrufe"
+        "de": "Kontakte & Anrufe",
+        "pt-br": "Chamadas e Contatos"
       },
       "icon": "ion-ios-telephone",
       "cmds": {
@@ -3486,11 +3502,13 @@
       "key": "ft",
       "name": {
         "en": "FaceTime",
-        "de": "FaceTime"
+        "de": "FaceTime",
+        "pt-br": "FaceTime"
       },
       "shortName": {
         "en": "FaceTime",
-        "de": "FaceTime"
+        "de": "FaceTime",
+        "pt-br": "FaceTime"
       },
       "icon": "ion-ios-videocam",
       "cmds": {
@@ -3592,11 +3610,13 @@
       "key": "msg",
       "name": {
         "en": "Messaging",
-        "de": "Nachrichten"
+        "de": "Nachrichten",
+        "pt-br": "Mensagens"
       },
       "shortName": {
         "en": "Messaging",
-        "de": "Nachrichten"
+        "de": "Nachrichten",
+        "pt-br": "Mensagens"
       },
       "icon": "ion-ios-chatbubble",
       "cmds": {
@@ -3804,11 +3824,13 @@
       "key": "email",
       "name": {
         "en": "E-mail",
-        "de": "E-Mail"
+        "de": "E-Mail",
+        "pt-br": "E-Mail"
       },
       "shortName": {
         "en": "E-mail",
-        "de": "E-Mail"
+        "de": "E-Mail",
+        "pt-br": "E-Mail"
       },
       "icon": "ion-ios-email",
       "cmds": {
@@ -4085,11 +4107,13 @@
       "key": "social",
       "name": {
         "en": "Social Apps",
-        "de": "Soziale Apps"
+        "de": "Soziale Apps",
+        "pt-br": "Apps sociais"
       },
       "shortName": {
         "en": "Social Apps",
-        "de": "Soziale Apps"
+        "de": "Soziale Apps",
+        "pt-br": "Apps sociais"
       },
       "icon": "ion-social-facebook",
       "cmds": {
@@ -4276,11 +4300,13 @@
       "key": "cal",
       "name": {
         "en": "Calendar",
-        "de": "Kalender"
+        "de": "Kalender",
+        "pt-br": "Calendário"
       },
       "shortName": {
         "en": "Calendar",
-        "de": "Kalender"
+        "de": "Kalender",
+        "pt-br": "Calendário"
       },
       "icon": "ion-ios-calendar-outline",
       "cmds": {
@@ -5067,11 +5093,13 @@
       "key": "remind",
       "name": {
         "en": "Reminders",
-        "de": "Erinnerungen"
+        "de": "Erinnerungen",
+        "pt-br": "Lembretes"
       },
       "shortName": {
         "en": "Reminders",
-        "de": "Erinnerungen"
+        "de": "Erinnerungen",
+        "pt-br": "Lembretes"
       },
       "icon": "ion-ios-bell",
       "cmds": {
@@ -5641,11 +5669,13 @@
       "key": "notes",
       "name": {
         "en": "Notes",
-        "de": "Notizen"
+        "de": "Notizen",
+        "pt-br": "Notas"
       },
       "shortName": {
         "en": "Notes",
-        "de": "Notizen"
+        "de": "Notizen",
+        "pt-br": "Notas"
       },
       "icon": "ion-document-text",
       "cmds": {
@@ -5851,11 +5881,13 @@
       "key": "maps",
       "name": {
         "en": "Maps & Navigation",
-        "de": "Karten & Navigation"
+        "de": "Karten & Navigation",
+        "pt-br": "Mapas & Navegação"
       },
       "shortName": {
         "en": "Maps & Navigation",
-        "de": "Karten & Navigation"
+        "de": "Karten & Navigation",
+        "pt-br": "Mapas & Navegação"
       },
       "icon": "ion-ios-navigate",
       "cmds": {
@@ -6584,11 +6616,13 @@
       "key": "findmyiphone",
       "name": {
         "en": "Find my iPhone",
-        "de": "Mein iPhone suchen"
+        "de": "Mein iPhone suchen",
+        "pt-br": "Find my iPhone"
       },
       "shortName": {
         "en": "Find my iPhone",
-        "de": "Mein iPhone suchen"
+        "de": "Mein iPhone suchen",
+        "pt-br": "Find my iPhone"
       },
       "icon": "ion-iphone",
       "cmds": {
@@ -6674,11 +6708,13 @@
       "key": "time",
       "name": {
         "en": "Time",
-        "de": "Zeit"
+        "de": "Zeit",
+        "pt-br": "Horas"
       },
       "shortName": {
         "en": "Time",
-        "de": "Zeit"
+        "de": "Zeit",
+        "pt-br": "Horas"
       },
       "icon": "ion-ios-clock-outline",
       "cmds": {
@@ -6819,11 +6855,13 @@
       "key": "alarm",
       "name": {
         "en": "Alarms",
-        "de": "Alarm / Wecker"
+        "de": "Alarm / Wecker",
+        "pt-br": "Alarmes"
       },
       "shortName": {
         "en": "Alarms",
-        "de": "Alarm / Wecker"
+        "de": "Alarm / Wecker",
+        "pt-br": "Alarmes"
       },
       "icon": "ion-ios-alarm",
       "cmds": {
@@ -7377,11 +7415,13 @@
       "key": "stopwatch",
       "name": {
         "en": "Timer",
-        "de": "Timer"
+        "de": "Timer",
+        "pt-br": "Temporizador"
       },
       "shortName": {
         "en": "Timer",
-        "de": "Timer"
+        "de": "Timer",
+        "pt-br": "Temporizador"
       },
       "icon": "ion-ios-timer",
       "cmds": {
@@ -7660,11 +7700,13 @@
       "key": "people_rs",
       "name": {
         "en": "People & Relationships",
-        "de": "Menschen & Beziehungen"
+        "de": "Menschen & Beziehungen",
+        "pt-br": "Pessoas & Relacionamentos"
       },
       "shortName": {
         "en": "People & Relationships",
-        "de": "Menschen & Beziehungen"
+        "de": "Menschen & Beziehungen",
+        "pt-br": "Pessoas & Relacionamentos"
       },
       "icon": "ion-ios-people",
       "cmds": {
@@ -7987,11 +8029,13 @@
       "key": "weather",
       "name": {
         "en": "Weather",
-        "de": "Wetter"
+        "de": "Wetter",
+        "pt-br": "Previsão do Tempo"
       },
       "shortName": {
         "en": "Weather",
-        "de": "Wetter"
+        "de": "Wetter",
+        "pt-br": "Previsão do Tempo"
       },
       "icon": "ion-ios-partlysunny",
       "cmds": {
@@ -8770,11 +8814,13 @@
       "key": "stocks",
       "name": {
         "en": "Stocks",
-        "de": "Aktien"
+        "de": "Aktien",
+        "pt-br": "Ações da Bolsa"
       },
       "shortName": {
         "en": "Stocks",
-        "de": "Aktien"
+        "de": "Aktien",
+        "pt-br": "Ações"
       },
       "icon": "ion-arrow-graph-up-right",
       "cmds": {
@@ -8904,11 +8950,13 @@
       "key": "def",
       "name": {
         "en": "Definitions & Search",
-        "de": "Definitionen & Suche"
+        "de": "Definitionen & Suche",
+        "pt-br": "Definições e Busca"
       },
       "shortName": {
         "en": "Definitions & Search",
-        "de": "Definitionen & Suche"
+        "de": "Definitionen & Suche",
+        "pt-br": "Definições e Busca"
       },
       "icon": "ion-ios-search-strong",
       "cmds": {
@@ -9014,11 +9062,13 @@
       "key": "search",
       "name": {
         "en": "Web search",
-        "de": "Websuche"
+        "de": "Websuche",
+        "pt-br": "Busca na Web"
       },
       "shortName": {
         "en": "Web search",
-        "de": "Websuche"
+        "de": "Websuche",
+        "pt-br": "Busca na Web"
       },
       "icon": "ion-ios-world",
       "cmds": {
@@ -9333,11 +9383,13 @@
       "key": "flights",
       "name": {
         "en": "Flights",
-        "de": "Flüge"
+        "de": "Flüge",
+        "pt-br": "Voos"
       },
       "shortName": {
         "en": "Flights",
-        "de": "Flüge"
+        "de": "Flüge",
+        "pt-br": "Voos"
       },
       "icon": "ion-android-plane",
       "cmds": {
@@ -9363,11 +9415,13 @@
       "key": "food",
       "name": {
         "en": "Restaurants",
-        "de": "Restaurants"
+        "de": "Restaurants",
+        "pt-br": "Restaurantes"
       },
       "shortName": {
         "en": "Restaurants",
-        "de": "Restaurants"
+        "de": "Restaurants",
+        "pt-br": "Restaurantes"
       },
       "icon": "ion-android-restaurant",
       "cmds": {
@@ -9496,11 +9550,13 @@
       "key": "knowledge",
       "name": {
         "en": "Knowledge",
-        "de": "Wissen"
+        "de": "Wissen",
+        "pt-br": "Conhecimento"
       },
       "shortName": {
         "en": "Knowledge",
-        "de": "Wissen"
+        "de": "Wissen",
+        "pt-br": "Conhecimento"
       },
       "icon": "ion-ios-lightbulb",
       "cmds": {
@@ -9835,11 +9891,13 @@
       "key": "trans",
       "name": {
         "en": "Translation",
-        "de": "Übersetzen"
+        "de": "Übersetzen",
+        "pt-br": "Tradução"
       },
       "shortName": {
         "en": "Translation",
-        "de": "Übersetzen"
+        "de": "Übersetzen",
+        "pt-br": "Tradução"
       },
       "icon": "ion-earth",
       "cmds": {
@@ -9897,11 +9955,13 @@
       "key": "books",
       "name": {
         "en": "Books",
-        "de": "Bücher"
+        "de": "Bücher",
+        "pt-br": "Livros"
       },
       "shortName": {
         "en": "Books",
-        "de": "Bücher"
+        "de": "Bücher",
+        "pt-br": "Livros"
       },
       "icon": "ion-ios-book",
       "cmds": {
@@ -9957,11 +10017,13 @@
       "key": "movie",
       "name": {
         "en": "Movies & Cinema",
-        "de": "Filme"
+        "de": "Filme",
+        "pt-br": "Filmes"
       },
       "shortName": {
         "en": "Movies & Cinema",
-        "de": "Filme"
+        "de": "Filme",
+        "pt-br": "Filmes"
       },
       "icon": "ion-ios-film",
       "cmds": {
@@ -10472,11 +10534,13 @@
       "key": "music",
       "name": {
         "en": "Music",
-        "de": "Musik"
+        "de": "Musik",
+        "pt-br": "Música"
       },
       "shortName": {
         "en": "Music",
-        "de": "Musik"
+        "de": "Musik",
+        "pt-br": "Música"
       },
       "icon": "ion-ios-musical-notes",
       "cmds": {
@@ -11223,11 +11287,13 @@
       "key": "podcasts",
       "name": {
         "en": "Podcasts",
-        "de": "Podcasts"
+        "de": "Podcasts",
+        "pt-br": "Podcasts"
       },
       "shortName": {
         "en": "Podcasts",
-        "de": "Podcasts"
+        "de": "Podcasts",
+        "pt-br": "Podcasts"
       },
       "icon": "ion-radio-waves",
       "cmds": {
@@ -11324,11 +11390,13 @@
       "key": "photos",
       "name": {
         "en": "Photos",
-        "de": "Fotos"
+        "de": "Fotos",
+        "pt-br": "Fotos"
       },
       "shortName": {
         "en": "Photos",
-        "de": "Fotos"
+        "de": "Fotos",
+        "pt-br": "Fotos"
       },
       "icon": "ion-ios-photos-outline",
       "cmds": {
@@ -11510,11 +11578,13 @@
       "key": "files",
       "name": {
         "en": "Files / Finder",
-        "de": "Dateien / Finder"
+        "de": "Dateien / Finder",
+        "pt-br": "Arquivos / Finder"
       },
       "shortName": {
         "en": "Files",
-        "de": "Dateien"
+        "de": "Dateien",
+        "pt-br": "Arquivos"
       },
       "icon": "ion-ios-folder-outline",
       "cmds": {
@@ -11675,11 +11745,13 @@
       "key": "sports",
       "name": {
         "en": "Sports",
-        "de": "Sport"
+        "de": "Sport",
+        "pt-br": "Esportes"
       },
       "shortName": {
         "en": "Sports",
-        "de": "Sport"
+        "de": "Sport",
+        "pt-br": "Esportes"
       },
       "icon": "ion-ios-americanfootball",
       "cmds": {
@@ -11957,11 +12029,13 @@
       "key": "decisions",
       "name": {
         "en": "Decisions & Random",
-        "de": "Entscheidungen & Zufall"
+        "de": "Entscheidungen & Zufall",
+        "pt-br": "Decisões"
       },
       "shortName": {
         "en": "Decisions & Random",
-        "de": "Entscheidung & Zufall"
+        "de": "Entscheidung & Zufall",
+        "pt-br": "Decisões"
       },
       "icon": "ion-help",
       "cmds": {
@@ -12219,11 +12293,13 @@
       "key": "fun",
       "name": {
         "en": "Funny",
-        "de": "Funny"
+        "de": "Funny",
+        "pt-br": "Brincadeiras"
       },
       "shortName": {
         "en": "Funny",
-        "de": "Funny"
+        "de": "Funny",
+        "pt-br": "Brincadeiras"
       },
       "icon": "ion-happy-outline",
       "cmds": {
@@ -13682,11 +13758,13 @@
       "key": "siri",
       "name": {
         "en": "Siri",
-        "de": "Siri"
+        "de": "Siri",
+        "pt-br": "Siri"
       },
       "shortName": {
         "en": "Siri",
-        "de": "Siri"
+        "de": "Siri",
+        "pt-br": "Siri"
       },
       "icon": "ion-ios-mic",
       "cmds": {
@@ -13712,11 +13790,13 @@
       "key": "dictation",
       "name": {
         "en": "Dictation",
-        "de": "Diktat"
+        "de": "Diktat",
+        "pt-br": "Ditado"
       },
       "shortName": {
         "en": "Dictation",
-        "de": "Diktat"
+        "de": "Diktat",
+        "pt-br": "Ditado"
       },
       "icon": "ion-compose",
       "cmds": {
