@@ -7,8 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D9AB59BC1E5D05C300015450 /* DataObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AB59BB1E5D05C300015450 /* DataObject.swift */; };
+		D9AB59BE1E5D147F00015450 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AB59BD1E5D147F00015450 /* SettingsViewController.swift */; };
 		D9C0E19B1E5CA6FB00BD89F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C0E19A1E5CA6FB00BD89F8 /* AppDelegate.swift */; };
-		D9C0E19D1E5CA6FB00BD89F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C0E19C1E5CA6FB00BD89F8 /* ViewController.swift */; };
+		D9C0E19D1E5CA6FB00BD89F8 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C0E19C1E5CA6FB00BD89F8 /* MainViewController.swift */; };
 		D9C0E1A01E5CA6FB00BD89F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9C0E19E1E5CA6FB00BD89F8 /* Main.storyboard */; };
 		D9C0E1A21E5CA6FB00BD89F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9C0E1A11E5CA6FB00BD89F8 /* Assets.xcassets */; };
 		D9C0E1A51E5CA6FB00BD89F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9C0E1A31E5CA6FB00BD89F8 /* LaunchScreen.storyboard */; };
@@ -35,9 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D9AB59BB1E5D05C300015450 /* DataObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataObject.swift; sourceTree = "<group>"; };
+		D9AB59BD1E5D147F00015450 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		D9C0E1971E5CA6FB00BD89F8 /* SiriCommands.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SiriCommands.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9C0E19A1E5CA6FB00BD89F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D9C0E19C1E5CA6FB00BD89F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D9C0E19C1E5CA6FB00BD89F8 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		D9C0E19F1E5CA6FB00BD89F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D9C0E1A11E5CA6FB00BD89F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9C0E1A41E5CA6FB00BD89F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -101,11 +105,13 @@
 			children = (
 				D9C0E1CA1E5CA80E00BD89F8 /* json */,
 				D9C0E19A1E5CA6FB00BD89F8 /* AppDelegate.swift */,
-				D9C0E19C1E5CA6FB00BD89F8 /* ViewController.swift */,
+				D9C0E19C1E5CA6FB00BD89F8 /* MainViewController.swift */,
 				D9C0E19E1E5CA6FB00BD89F8 /* Main.storyboard */,
 				D9C0E1A11E5CA6FB00BD89F8 /* Assets.xcassets */,
 				D9C0E1A31E5CA6FB00BD89F8 /* LaunchScreen.storyboard */,
 				D9C0E1A61E5CA6FB00BD89F8 /* Info.plist */,
+				D9AB59BB1E5D05C300015450 /* DataObject.swift */,
+				D9AB59BD1E5D147F00015450 /* SettingsViewController.swift */,
 			);
 			path = SiriCommands;
 			sourceTree = "<group>";
@@ -271,8 +277,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9C0E19D1E5CA6FB00BD89F8 /* ViewController.swift in Sources */,
+				D9C0E19D1E5CA6FB00BD89F8 /* MainViewController.swift in Sources */,
+				D9AB59BC1E5D05C300015450 /* DataObject.swift in Sources */,
 				D9C0E19B1E5CA6FB00BD89F8 /* AppDelegate.swift in Sources */,
+				D9AB59BE1E5D147F00015450 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
