@@ -7,6 +7,10 @@
     {
       "key": "de",
       "name": "Deutsch (German)"
+    },
+    {
+      "key": "pt_Br",
+      "name": "Portugues (Brazil)"
     }
   ],
   "categories": [
